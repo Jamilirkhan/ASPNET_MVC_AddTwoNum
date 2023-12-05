@@ -1,0 +1,310 @@
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\ApplicationInsights.config
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\csc.exe
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\vbc.exe
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\VBCSCompiler.exe
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\AddTwoNum.dll.config
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\AddTwoNum.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\AddTwoNum.pdb
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Antlr3.Runtime.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.AI.Web.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.ApplicationInsights.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Newtonsoft.Json.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.Helpers.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.Mvc.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.Optimization.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.Razor.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Deployment.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Razor.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\WebGrease.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.AI.Web.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.ApplicationInsights.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.Helpers.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.Mvc.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.Optimization.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.Razor.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Deployment.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Razor.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Antlr3.Runtime.pdb
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\bin\Newtonsoft.Json.xml
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.csprojResolveAssemblyReference.cache
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.dll
+c:\users\jamil\documents\visual studio 2015\Projects\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.pdb
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\ApplicationInsights.config
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\csc.exe
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\vbc.exe
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\VBCSCompiler.exe
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\AddTwoNum.dll.config
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\AddTwoNum.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\AddTwoNum.pdb
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Antlr3.Runtime.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.AI.Web.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Newtonsoft.Json.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.Helpers.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.Mvc.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.Optimization.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.Razor.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.WebPages.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.WebPages.Razor.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\WebGrease.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.AI.Web.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.Helpers.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.Mvc.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.Optimization.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.Razor.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.WebPages.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\System.Web.WebPages.Razor.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Antlr3.Runtime.pdb
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\bin\Newtonsoft.Json.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\obj\Debug\AddTwoNum.csprojResolveAssemblyReference.cache
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\obj\Debug\AddTwoNum.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Copy\AddTwoNum\obj\Debug\AddTwoNum.pdb
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\ApplicationInsights.config
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\csc.exe
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\vbc.exe
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\VBCSCompiler.exe
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\AddTwoNum.dll.config
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\AddTwoNum.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\AddTwoNum.pdb
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Antlr3.Runtime.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.Web.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Newtonsoft.Json.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Helpers.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Mvc.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Optimization.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Razor.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.Razor.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\WebGrease.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.Web.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Helpers.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Mvc.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Optimization.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Razor.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.Razor.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Antlr3.Runtime.pdb
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Newtonsoft.Json.xml
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\obj\Debug\AddTwoNum.csprojResolveAssemblyReference.cache
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\obj\Debug\AddTwoNum.dll
+C:\Users\jamil\Documents\Visual Studio 2015\Projects\AddTwoNum - Ajax.BeginForm\AddTwoNum\obj\Debug\AddTwoNum.pdb
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\ApplicationInsights.config
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\csc.exe
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\System.Collections.Immutable.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\System.Reflection.Metadata.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\vbc.exe
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\VBCSCompiler.exe
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\roslyn\VBCSCompiler.exe.config
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\AddTwoNum.dll.config
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\AddTwoNum.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\AddTwoNum.pdb
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Antlr3.Runtime.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.Agent.Intercept.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.DependencyCollector.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.Web.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.WindowsServer.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.ApplicationInsights.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.Web.Infrastructure.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Newtonsoft.Json.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Helpers.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Mvc.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Optimization.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Razor.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.Deployment.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.Razor.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\WebGrease.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.DependencyCollector.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.Web.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.AI.WindowsServer.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.ApplicationInsights.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Helpers.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Mvc.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Optimization.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.Razor.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.Deployment.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\System.Web.WebPages.Razor.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Antlr3.Runtime.pdb
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\bin\Newtonsoft.Json.xml
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\obj\Debug\AddTwoNum.csprojResolveAssemblyReference.cache
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\obj\Debug\AddTwoNum.dll
+E:\All\CV\after PhD Resumes\industry\2018\june\Egress Software Technologies\AddTwoNum - Ajax.BeginForm\AddTwoNum\obj\Debug\AddTwoNum.pdb
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\ApplicationInsights.config
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\csc.exe
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\System.Collections.Immutable.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\System.Reflection.Metadata.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\vbc.exe
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\VBCSCompiler.exe
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\roslyn\VBCSCompiler.exe.config
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\AddTwoNum.dll.config
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\AddTwoNum.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\AddTwoNum.pdb
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Antlr3.Runtime.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.AI.Agent.Intercept.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.AI.DependencyCollector.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.AI.Web.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.AI.WindowsServer.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.ApplicationInsights.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.Web.Infrastructure.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Newtonsoft.Json.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.Helpers.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.Mvc.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.Optimization.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.Razor.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Deployment.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Razor.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\WebGrease.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.AI.DependencyCollector.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.AI.Web.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.AI.WindowsServer.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.ApplicationInsights.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.Helpers.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.Mvc.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.Optimization.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.Razor.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Deployment.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Razor.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Antlr3.Runtime.pdb
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\bin\Newtonsoft.Json.xml
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.csprojAssemblyReference.cache
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.csproj.CoreCompileInputs.cache
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.csproj.CopyComplete
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.dll
+C:\D Drive\Data\C# Projects\ASP.NET Projects\Add Two Num\AddTwoNum (1)\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.pdb
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.pdb
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\ApplicationInsights.config
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\AddTwoNum.dll.config
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\AddTwoNum.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\AddTwoNum.pdb
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Antlr3.Runtime.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.AI.Agent.Intercept.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.AI.DependencyCollector.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.AI.Web.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.AI.WindowsServer.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.ApplicationInsights.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.Web.Infrastructure.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Newtonsoft.Json.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.Helpers.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.Mvc.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.Optimization.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.Razor.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Deployment.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Razor.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\WebGrease.dll
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.AI.DependencyCollector.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.AI.Web.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.AI.WindowsServer.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.ApplicationInsights.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.Helpers.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.Mvc.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.Optimization.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.Razor.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Deployment.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\System.Web.WebPages.Razor.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Antlr3.Runtime.pdb
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\bin\Newtonsoft.Json.xml
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.csprojAssemblyReference.cache
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.csproj.CoreCompileInputs.cache
+C:\D Drive\Data\to load\AddTwoNum\AddTwoNum\obj\Debug\AddTwoNum.csproj.CopyComplete

@@ -1,0 +1,48 @@
+﻿@model AddTwoNum.Models.VirtualMachineMemory
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"> </script>
+
+
+
+<h2>Add Two Numbers Application</h2>
+
+
+@using (Ajax.BeginForm("Executescript", "Home"
+                , new AjaxOptions
+                {
+                    HttpMethod = "get",
+                    InsertionMode = InsertionMode.Replace,
+                    UpdateTargetId = "partialviews"
+                }))
+{
+   @Html.AntiForgeryToken()
+
+    <div class="display-label">
+
+        Enter Script here
+
+    </div>
+
+    <div class="display-label">
+
+        @Html.TextArea("scriptArea", null, new { @class = "form-control" , cols = "15", rows = "10" })
+
+    </div>
+    
+    <input type="submit" value="Execute Script" id="btnExecute" name="ButtonType"/>
+    <input type="submit" value="Reset Memory" id="btnReset" name="ButtonType" />
+    
+   
+    <div  id="partialviews">
+        @{Html.RenderPartial("Executescript");}
+    </div>
+    
+            }
+
+
+
+

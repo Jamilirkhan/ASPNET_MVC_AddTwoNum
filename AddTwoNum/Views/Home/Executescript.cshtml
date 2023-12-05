@@ -1,0 +1,35 @@
+﻿@model AddTwoNum.Models.VirtualMachineMemory
+
+@{
+
+    var vm_memory = (AddTwoNum.Models.VirtualMachineMemory)Session["vm_memory"];    
+    List<int> keys = vm_memory.getKeys();//(List<int>)Session["keys"];
+       
+}
+
+<fieldset>
+    <p class="text-danger">
+        @Session["message"]
+    </p>    
+</fieldset>
+
+    <fieldset>
+
+        <legend>Virtual Machine Memory</legend>
+
+
+        @for (int i = 0; i < keys.Count; i++)
+        {
+            <div class=”display-label”>
+                @Html.DisplayNameFor(model => model.Memory[keys[i].ToString()]) : @vm_memory.Memory[keys[i].ToString()]
+            </div>
+        }
+
+        @*@foreach (string key in @vm_memory.Memory.Keys)
+            {
+                 <div class=”display-label”>
+                     @Html.DisplayNameFor(model => model.Memory[key]) : @vm_memory.Memory[key]
+                 </div>
+             }*@
+
+    </fieldset>
